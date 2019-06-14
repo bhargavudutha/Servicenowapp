@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_college</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 00:00:56</sys_created_on>
+        <sys_id>90e0d7fcdb867300294d656b4b9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>College View</sys_name>
+        <sys_package display_value="sample" source="x_366642_sample">5cdbf910db023300294d656b4b9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sample">5cdbf910db023300294d656b4b9619ec</sys_scope>
+        <sys_update_name>sys_ui_view_90e0d7fcdb867300294d656b4b9619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 00:00:56</sys_updated_on>
+        <title>College View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

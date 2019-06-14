@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Visitor" max_length="40" name="x_366642_sample_visitor" type="collection">
+        <element label="email" max_length="50" name="email" type="string"/>
+        <element label="name" max_length="20" name="name" type="string"/>
+    </element>
+</database>

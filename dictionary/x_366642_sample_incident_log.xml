@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Inc_log" max_length="40" name="x_366642_sample_incident_log" sizeclass="1" type="collection">
+        <element label="incident_contactype" max_length="32" name="affected_users" reference="sys_user" type="reference"/>
+        <element choice="1" label="Sage" max_length="50" name="sage" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="sname" sequence="0"/>
+            </choice>
+        </element>
+        <element default="test default" label="Sample desc" max_length="50" name="sample_desc" type="string_full_utf8"/>
+        <element label="sid" max_length="50" name="sid" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="request_date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="request_date" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+    </element>
+</database>

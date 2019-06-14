@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>m1</name>
+        <order/>
+        <roles>x_366642_sample.m1_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 09:39:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a22cb90dbc23300294d656b4b961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>m1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sample" source="x_366642_sample">5cdbf910db023300294d656b4b9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sample">5cdbf910db023300294d656b4b9619ec</sys_scope>
+        <sys_update_name>sys_ui_application_5a22cb90dbc23300294d656b4b961919</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 09:39:40</sys_updated_on>
+    </sys_ui_application>
+</record_update>
