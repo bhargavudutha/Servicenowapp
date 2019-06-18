@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ACL_testing" max_length="40" name="x_366642_sample_acl_testing" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Short description" max_length="50" name="short_description" type="string"/>
+    </element>
+</database>

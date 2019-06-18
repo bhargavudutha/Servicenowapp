@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_366642_sample_acl_testing">x_366642_sample_acl_testing</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ACL</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-18 05:48:33</sys_created_on>
+        <sys_id>81609ea2dbc23300294d656b4b96198a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ACL</sys_name>
+        <sys_package display_value="sample" source="x_366642_sample">5cdbf910db023300294d656b4b9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sample">5cdbf910db023300294d656b4b9619ec</sys_scope>
+        <sys_update_name>sys_number_81609ea2dbc23300294d656b4b96198a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 05:48:33</sys_updated_on>
+    </sys_number>
+</record_update>

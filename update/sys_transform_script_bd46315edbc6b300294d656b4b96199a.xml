@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="unique">4c26fd1edbc6b300294d656b4b961945</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+
+	// Add your code here
+if(gs.nil(source.u_email))
+	{
+		target.email=source.u_first_name+"."+source.u_lastname+"@test.com";
+	}
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-17 09:17:56</sys_created_on>
+        <sys_id>bd46315edbc6b300294d656b4b96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onStart</sys_name>
+        <sys_package display_value="sample" source="x_366642_sample">5cdbf910db023300294d656b4b9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sample">5cdbf910db023300294d656b4b9619ec</sys_scope>
+        <sys_update_name>sys_transform_script_bd46315edbc6b300294d656b4b96199a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-17 09:17:56</sys_updated_on>
+        <when>onStart</when>
+    </sys_transform_script>
+</record_update>

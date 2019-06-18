@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-13 05:24:17</sys_created_on>
-        <sys_id>45ea18cddb4a7300294d656b4b961968</sys_id>
+        <sys_id>6bc1a599db023300294d656b4b961968</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="sample" source="x_366642_sample">5cdbf910db023300294d656b4b9619ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="sample">5cdbf910db023300294d656b4b9619ec</sys_scope>
         <sys_update_name>sys_dictionary_x_366642_sample_new_inc_log_number</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-13 05:24:17</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-06-14 05:12:39</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
